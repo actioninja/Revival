@@ -5,8 +5,8 @@ Originally created by SMP. Minecraft Forums thread: http://www.minecraftforum.ne
 
 This fork is maintained by actioninja
 
-CREDITS:
-SMP - Original Creator
-WolfiaMC Team - texture creation
-ColTim, Kakermix, and Cheapshot - 1.2.5 modded textures which are being ported
-actioninja - texture port work and some texture creation
+# CREDITS
+* SMP - Original Creator
+* WolfiaMC Team - texture creation
+* ColTim, Kakermix, and Cheapshot - 1.2.5 modded textures which are being ported
+* actioninja - texture port work and some texture creation
