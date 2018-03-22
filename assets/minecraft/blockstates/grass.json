@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "grass_normal/0", "weight": 75 },
+            { "model": "grass_normal/1", "weight": 5  },
+            { "model": "grass_normal/2", "weight": 10 },
+            { "model": "grass_normal/3", "weight": 10 }
+        ],
+        "snowy=true":  { "model": "grass_snowed" }
+    }
+}

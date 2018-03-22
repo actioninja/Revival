@@ -1,5 +1,10 @@
 {
-  "animation": {
-    "frametime": 3
+  "ctm": {
+    "ctm_version": 1,
+    "type":"CTM",
+    "layer":"SOLID",
+    "textures":[
+      "minecraft:blocks/glowstone-ctm"
+    ]
   }
 }
