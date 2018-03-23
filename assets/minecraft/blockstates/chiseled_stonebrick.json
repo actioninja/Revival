@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "stonebrick_chiseled/0" },
+          { "model": "stonebrick_chiseled/1" },
+          { "model": "stonebrick_chiseled/2" },
+          { "model": "stonebrick_chiseled/3" },
+          { "model": "stonebrick_chiseled/4" },
+          { "model": "stonebrick_chiseled/5" }
+        ]
+    }
+}
