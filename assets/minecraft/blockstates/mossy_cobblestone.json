@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "mossy_cobblestone/0" },
+          { "model": "mossy_cobblestone/1" },
+          { "model": "mossy_cobblestone/2" },
+          { "model": "mossy_cobblestone/3" },
+          { "model": "mossy_cobblestone/4" },
+          { "model": "mossy_cobblestone/5" },
+          { "model": "mossy_cobblestone/6" },
+          { "model": "mossy_cobblestone/7" },
+          { "model": "mossy_cobblestone/8" },
+          { "model": "mossy_cobblestone/9" },
+          { "model": "mossy_cobblestone/10" },
+          { "model": "mossy_cobblestone/11" },
+          { "model": "mossy_cobblestone/12" },
+          { "model": "mossy_cobblestone/13" },
+          { "model": "mossy_cobblestone/14" },
+          { "model": "mossy_cobblestone/15" }
+      ]
+    }
+}

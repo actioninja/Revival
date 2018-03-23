@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "brick/0" },
+          { "model": "brick/1" },
+          { "model": "brick/2" },
+          { "model": "brick/3" },
+          { "model": "brick/4" },
+          { "model": "brick/5" },
+          { "model": "brick/6" },
+          { "model": "brick/7" },
+          { "model": "brick/8" },
+          { "model": "brick/9" },
+          { "model": "brick/10" },
+          { "model": "brick/11" },
+          { "model": "brick/12" },
+          { "model": "brick/13" },
+          { "model": "brick/14" },
+          { "model": "brick/15" }
+      ]
+    }
+}

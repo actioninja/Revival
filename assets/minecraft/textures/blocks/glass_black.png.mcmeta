@@ -2,7 +2,7 @@
     "ctm":{
         "ctm_version": 1,
         "type":"CTM",
-        "layer":"CUTOUT",
+        "layer":"TRANSLUCENT",
         "textures":[
             "minecraft:blocks/glass_black-ctm"
         ]

@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+          { "model": "cobblestone/0" },
+          { "model": "cobblestone/1" },
+          { "model": "cobblestone/2" },
+          { "model": "cobblestone/3" },
+          { "model": "cobblestone/4" },
+          { "model": "cobblestone/5" },
+          { "model": "cobblestone/6" },
+          { "model": "cobblestone/7" },
+          { "model": "cobblestone/8" },
+          { "model": "cobblestone/9" },
+          { "model": "cobblestone/10" },
+          { "model": "cobblestone/11" },
+          { "model": "cobblestone/12" },
+          { "model": "cobblestone/13" },
+          { "model": "cobblestone/14" },
+          { "model": "cobblestone/15" }
+      ]
+    }
+}

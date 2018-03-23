@@ -2,9 +2,14 @@
     "ctm":{
         "ctm_version": 1,
         "type":"CTM",
-        "layer":"CUTOUT",
+        "layer":"TRANSLUCENT",
         "textures":[
             "minecraft:blocks/glass_white-ctm"
-        ]
+        ],
+        "extra": {
+            "connect_to": [
+              { "block": "minecraft:stained_glass" }
+            ]
+        }
     }
 }
