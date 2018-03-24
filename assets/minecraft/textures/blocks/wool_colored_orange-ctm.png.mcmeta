@@ -1,0 +1,16 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "layer":"SOLID",
+        "textures":[
+            "minecraft:blocks/wool_colored_orange-ctm2"
+        ],
+        "extra": {
+          "connect_to": [
+            { "block": "minecraft:wool" },
+            { "block": "minecraft:carpet" }
+          ]
+        }
+    }
+}
