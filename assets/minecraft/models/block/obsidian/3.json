@@ -1,5 +1,6 @@
 {
-    "variants": {
-        "normal": { "model": "obsidian/3" }
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/obsidian/3"
     }
 }
