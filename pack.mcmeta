@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 3,
+<<<<<<< HEAD
     "description": "SMP's Revival"
+=======
+    "description": "SMP's Revival - Updated by Akenland - revival.akenland.com"
+>>>>>>> upstream/master
   }
 }
